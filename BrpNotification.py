@@ -11,4 +11,3 @@ for marker in data['data']['features']:
         marker['properties']['start'] = miles[0]
         marker['properties']['end'] = miles[1]
         parkway.append(marker['properties'])
-i = 0
